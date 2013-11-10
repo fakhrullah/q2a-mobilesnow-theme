@@ -23,6 +23,6 @@ Question2Answer is a free and open source platform for Q&A sites. For more infor
 http://www.question2answer.org/
 
 ##Credit To
-Q2A Snow Theme Creator
-Snap.js creator
-NoahY Mobile Theme
+Q2A Snow Theme Creator  
+Snap.js creator  
+NoahY Mobile Theme  
