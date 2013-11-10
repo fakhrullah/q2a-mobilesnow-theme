@@ -1,7 +1,9 @@
-#Question2Answer MobileSnow Theme v 0.0.1
+#Question2Answer MobileSnow Theme v 0.1
+
+Just kidding, you dont have to buy. FREE as in Nasi Lemak and FREE as in speech.
 
 ##Description
-This is a mobile theme for **Question2Answer** with snap.js
+This is a mobile theme for **Question2Answer** with slide menu (snap.js).
 
 ##Features
 - mobile
@@ -10,7 +12,6 @@ This is a mobile theme for **Question2Answer** with snap.js
 
 
 ##Disclaimer
-
 This is **experimental** code.  It is probably okay for production environments, but may not work exactly as expected.  Refunds will not be given.  If it breaks, you get to keep both parts.
 
 ##License
@@ -22,7 +23,6 @@ Question2Answer is a free and open source platform for Q&A sites. For more infor
 http://www.question2answer.org/
 
 ##Credit To
-
 Q2A Snow Theme Creator
 Snap.js creator
 NoahY Mobile Theme
