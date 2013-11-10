@@ -13,8 +13,8 @@ This is a mobile theme for **Question2Answer** with snap.js
 
 This is **experimental** code.  It is probably okay for production environments, but may not work exactly as expected.  Refunds will not be given.  If it breaks, you get to keep both parts.
 
-##Liciense
-
+##License
+GNU_GPL_v2
 
 ##About q2A
 Question2Answer is a free and open source platform for Q&A sites. For more information, visit:
